@@ -1,2 +1,3 @@
-# ultra-iot-platform-z18n
-A IoT device management platform for modern development workflows
+# Ultra Iot Platform Z18N
+
+A IoT device management platform for modern development workflows.
